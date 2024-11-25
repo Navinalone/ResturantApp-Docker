@@ -104,7 +104,7 @@ Before you begin, ensure you have the following:
 
 1. **Clone the Project**:
    ```bash
-   git clone https://github.com/walifile/react-resturant-website-theme.git
+   git clone https://github.com/Navinalone/ResturantApp-Docker.git
    ```
 
 2. **Navigate into the Project Directory**:
