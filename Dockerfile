@@ -29,7 +29,7 @@ FROM nginx:alpine
 COPY --from=builder /usr/src/app/build /usr/share/nginx/html
 
 # Expose port 80 to the outside world (default for HTTP)
-EXPOSE 80
+EXPOSE 8080
 
 # Start NGINX server
 CMD ["nginx", "-g", "daemon off;"]
