@@ -21,7 +21,7 @@ const Footer = () => {
           <a href="#">blogs</a>
         </div>
         <div class="credit">
-          created by <span>Coding circulate</span> | all rights reserved
+          created by <span>Navin Potnuru</span> | all rights reserved
         </div>
       </section>
     </>
